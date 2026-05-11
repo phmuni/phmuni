@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **developer** who loves understanding how things work beneath the surface — not just using tools, but knowing *why* and *how* they work. I'm always exploring new technologies and pushing my knowledge further, whether it's diving into low-level systems or picking up something entirely new.
+I'm a **developer** who loves understanding how things work beneath the surface, not just using tools, but knowing *why* and *how* they work. I'm always exploring new technologies and pushing my knowledge further, whether it's diving into low-level systems or picking up something entirely new.
 
 - 🔍 I genuinely enjoy understanding **how things work** at a deeper level
 - 🔷 Currently building a **modular 3D engine** from scratch — ECS, OpenGL, SDL3
