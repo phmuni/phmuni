@@ -26,7 +26,7 @@ I'm a **developer** who loves understanding how things work beneath the surface,
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**modular-engine**](https://github.com/phmuni/modular-engine) | Modular 3D engine built around a pure ECS, with an OpenGL rendering pipeline | C++ · OpenGL · SDL3 · CMake |
+| [**modular-engine**](https://github.com/phmuni/modular-engine) | Modular 3D engine with a sparse-set ECS, an instanced OpenGL renderer with shadows, and a gravitational-lensing black hole demo | C++ · OpenGL · SDL3 · CMake |
 | [**exposition**](https://github.com/phmuni/exposition) | 2D digital painting app with a soft brush, paint bucket and HSV color picker | C++20 · raylib |
 | [**rpgen**](https://github.com/phmuni/rpgen) | Terminal encounter manager for 5e tabletop RPGs: generation, initiative and HP tracking | Python · Textual · Open5e |
 | [**linear-solver**](https://github.com/phmuni/linear-solver) | Desktop LP solver with step-by-step explanations: graphical method, simplex and Big M | Python · PyQt5 |
